@@ -1,0 +1,6 @@
+.menu-category { display: flex; align-items: center; gap: 13px; padding: 34px 0 15px; color: var(--green); }
+.menu-category span { font: italic 15px Georgia, serif; color: var(--gold); }
+.menu-category h3 { margin: 0; font: normal 25px Georgia, serif; }
+.menu-observation { margin: 31px 0 -28px; color: var(--muted); font-size: 12px; line-height: 1.6; }
+.menu-observation strong { color: var(--green); }
+@media (max-width: 760px) { .menu-category { padding-top: 28px; } }
